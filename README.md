@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Monika Ghimire
 
 > ### An MBA Graduate currently pursuing a Web Development training at Digital Career Institute, Berlin
@@ -47,3 +48,12 @@
 - Recruitment Management skills
 - Tour Planning skills
 - Internal Auditing skills# GIT-Practise
+=======
+# GIT-Practise
+
+Angela Herrig
+36 years
+german
+cat's name is Coco
+I love Spätzle
+>>>>>>> d7a023a77a82ca6b0a5ed070503c5a0b9cf874b7
