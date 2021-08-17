@@ -51,9 +51,10 @@
 =======
 # GIT-Practise
 
-Angela Herrig
-36 years
-german
-cat's name is Coco
-I love Spätzle
+#Angela Herrig
+- 36 years
+- german
+- living close to Stuttgart
+- cat's name is Coco
+- I love Spätzle
 >>>>>>> d7a023a77a82ca6b0a5ed070503c5a0b9cf874b7
